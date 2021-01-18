@@ -1,7 +1,7 @@
 # Api Url Code -> 
 
-<img src="./ss/gggg.png">
-<img src="./ss/xxxx.png">
+[![image](https://r.resimlink.com/Jrw.png)](https://resimlink.com/Jrw)
+[![image](https://r.resimlink.com/Qf6mIyk.png)](https://resimlink.com/Qf6mIyk)
 
 APIURL = "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=04c35731a5ee918f014970082a0088b1&page=1";
 
