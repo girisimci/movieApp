@@ -97,3 +97,17 @@ header{
 	transform: translateY(0%);
 
 }
+.tag{
+	background-color:purple;
+	border-radius: 5px;
+	padding: 0.5rem;
+}
+.tag.green{
+	color: green;
+}
+.tag.orange{
+	color: orange;
+}
+.tag.red{
+	color: red;
+}
